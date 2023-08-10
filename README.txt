@@ -1,3 +1,2 @@
-I will add the code files in this repo of me learning DSA and will also add the questions which i will solve along the way in the Text files . The first two code files are the main.java file in the repo and one is in the src folder with same name main.java and the rest of the files of codes will be available as text files with the names covering some specific topics. 
-
+I will add the code files in this repo of me learning DSA and will also add the questions which i will solve along the way . The first code files are main.java and another one is in the src folder with name main.java , I was just learning git at that time so did it like yea its kinda mistake but after that the code files will be having the names covering specific topics in it . 
 
